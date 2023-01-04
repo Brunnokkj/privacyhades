@@ -1,11 +1,11 @@
 ## Termos de uso
-- Ao convidar a molly para o seu servidor de discord, você concorda que leu, entendeu e aceitou estes termos. Você também é responsável por informar os membros do seu servidor de discórdia sobre esses termos. Se você não concordar com qualquer um desses termos, você está proibido de usar ou adicionar a molly ao seu servidor.
+- Ao convidar o hades para o seu servidor de discord, você concorda que leu, entendeu e aceitou estes termos. Você também é responsável por informar os membros do seu servidor de discórdia sobre esses termos. Se você não concordar com qualquer um desses termos, você está proibido de usar ou adicionar a molly ao seu servidor.
 
 ## Termos de responsabilidade
-- Você está proibido de usar a Molly contra os ToS do discord, ou para fins ilegais. Estamos tentando fazer de tudo para evitar essas atividades. Se você encontrar pessoas ou comunidades usando a Molly contra os ToS do discord ou até mesmo para atividades ilegais, envie-nos um e-mail para contato mollybot147@gmail.com.
+- Você está proibido de usar o Hades contra os ToS do discord, ou para fins ilegais. Estamos tentando fazer de tudo para evitar essas atividades. Se você encontrar pessoas ou comunidades usando a Molly contra os ToS do discord ou até mesmo para atividades ilegais, envie-nos um e-mail para contato mollybot147@gmail.com.
 
 ## Direitos do proprietário
-- Nos da molly fornecemos informações sobre os dados fornecidos e guardamos eles por 1 semana (7 dias), apos esse periodo ele é deletado automaticamente.
+- Nos da equipe Hades fornecemos informações sobre os dados fornecidos e guardamos eles por 1 semana (7 dias), apos esse periodo ele é deletado automaticamente.
 
 ## Disponibilidade
 - Os dados relacionados ao usuário, incluindo dados de perfil, podem ser privados a qualquer momento.
