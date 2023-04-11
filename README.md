@@ -1,6 +1,6 @@
 # Termos de responsabilidade:
 
-- Você está proibido de usar o Hades contra os ToS do discord, ou para fins ilegais. Estamos tentando fazer de tudo para evitar essas atividades. Se você encontrar pessoas ou comunidades usando o Hades contra os ToS do discord ou até mesmo para atividades ilegais, envie-nos um e-mail para contato 147hades@gmail.com.
+- Você está proibido de usar a Molly contra os ToS do discord, ou para fins ilegais. Estamos tentando fazer de tudo para evitar essas atividades. Se você encontrar pessoas ou comunidades usando o Molly contra os ToS do discord ou até mesmo para atividades ilegais, envie-nos um e-mail para contato 147molly@gmail.com.
 
 # Disponibilidade:
 
